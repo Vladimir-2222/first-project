@@ -1,0 +1,8 @@
+.content {
+font-size: large;
+display: block;
+}
+.page {
+    font-size: large;
+    display: flexbox;
+}
